@@ -1,0 +1,35 @@
+Lint/RescueException:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 200
+
+Metrics/MethodLength:
+  Max: 50
+
+Metrics/ParameterLists:
+  Max: 10
+
+#Metrics/AbcSize:
+#  Max: 40
+
+Style/BlockDelimiters:
+  Enabled: false
+
+Layout/CaseIndentation:
+  Enabled: false
+
+Layout/SpaceAroundOperators:
+  Enabled: false
+
+Layout/CommentIndentation:
+  Enabled: false
+
+Style/RedundantBegin:
+  Enabled: false
+
+#Style/Semicolon:
+#  Enabled: false
+
+Style/TrailingBlankLines:
+  Enabled: false
